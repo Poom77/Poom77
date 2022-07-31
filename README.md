@@ -1,4 +1,4 @@
-Hello, my name is Poom. I am an undrergraduate at Rice University. 
+Hello, my name is Poom. I am an undergraduate at Rice University. 
 
 You can find more about me here: https://poom77.github.io.
 
